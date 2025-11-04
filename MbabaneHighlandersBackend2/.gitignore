@@ -1,0 +1,4 @@
+﻿# Ignore Visual Studio cache and build files
+.vs/
+bin/
+obj/

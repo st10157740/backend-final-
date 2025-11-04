@@ -1,0 +1,6 @@
+@MbabaneHighlandersBackend2_HostAddress = http://localhost:5026
+
+GET {{MbabaneHighlandersBackend2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

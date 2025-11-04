@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbabaneHighlandersBackend2", "MbabaneHighlandersBackend2\MbabaneHighlandersBackend2.csproj", "{3FAB59A6-2B59-49BB-A4A8-632E12971943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbabaneHighlandersTest", "MbabaneHighlandersTest\MbabaneHighlandersTest.csproj", "{90227909-0FAE-43EA-9C6D-E513DD580457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FAB59A6-2B59-49BB-A4A8-632E12971943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAB59A6-2B59-49BB-A4A8-632E12971943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAB59A6-2B59-49BB-A4A8-632E12971943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAB59A6-2B59-49BB-A4A8-632E12971943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90227909-0FAE-43EA-9C6D-E513DD580457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90227909-0FAE-43EA-9C6D-E513DD580457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90227909-0FAE-43EA-9C6D-E513DD580457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90227909-0FAE-43EA-9C6D-E513DD580457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FCEBE47-7824-464C-B14B-13A14A66558C}
+	EndGlobalSection
+EndGlobal
